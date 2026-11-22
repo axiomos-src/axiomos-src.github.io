@@ -1,2 +1,2 @@
 # axiomos-src.github.io
-axiomos-src.github.io Website Source code.
+this repo is website: axiomos-src.github.io of source code.
